@@ -1,35 +1,38 @@
-# Fanrr Cloud官方网站入口
+# Fanrr Cloud机场官网地址
 
-最新官网地址：[fanrr.cc](https://url.gogogomiao.one/QYTN)
+最新地址：[fanrr.cc](https://url.gogogomiao.one/QYTN)
 
-## 平台介绍
+## Fanrr Cloud介绍
 
-Fanrr Cloud专业提供Tiktok、Netflix、GPT等国际流媒体平台的加速服务。
+Fanrr Cloud机场，Tiktok|，Netflix|，GPT等流媒体解锁。
 
-在杭州、广州等地部署多个中转服务器，配备50+常规节点与20+特殊区域专线，80%以上常用节点下载速度突破200MB/s。
+杭州等广州多地中转，50+常用节点+20冷门地区，常用节点超过80%下载速度大于200MB。
 
-基于SS技术架构，允许多终端同时连接，智能流量分配保障多用户稳定使用。实测延迟：江南地区40-100ms，北方地区60-140ms。
+SS协议，多端使用，负载均衡 多人使用流畅不卡，靠近江南地区常用地区延迟40ms～100ms，北方地区60～140ms。
 
-## 促销优惠
+## Fanrr Cloud优惠码
 
-五一特惠7折码：GenshinMaster（5月5日前有效）
+五一活动七折优惠券：GenshinMaster 有效期到5号
 
-长期优惠：
-- 月付/季付8折：Fanrrcloud8
-- 半年/年付7折：Fanrrcloud7
-- 单次套餐85折：Fanrrcloud85
+月付季付8折优惠：Fanrrcloud8
 
-## 套餐价格
+年付半年付7折优惠：Fanrrcloud7
 
-| 套餐类型 | 吉祥套餐 | 三餐套餐 | 三生有幸 | 大小肠套餐 |
-|----------|----------|----------|----------|------------|
-| 月付     | ¥20      | ¥10      | ¥20      | ¥33        |
-| 季付     | ¥60      | ¥30      | ¥60      | ¥99        |
-| 半年付   | -        | ¥60      | ¥120     | ¥198       |
-| 年付     | -        | ¥120     | ¥240     | ¥396       |
+一次性套餐85折优惠：Fanrrcloud85
 
-**年度特供**
-体验套餐：每月50G ¥42
+## Fanrr Cloud价格
 
-**限时特价**
-畅享套餐：650G总流量 ¥88
+|套餐|auspicious|three meals a day|Lucky for three lives|large intestine small intestine|
+|----|----|----|----|----|
+|月付|¥20|¥10|¥20|¥33|
+|季付|¥60|¥30|¥60|¥99|
+|半年付|-|¥60|¥120|¥198|
+|年付|-|¥120|¥240|¥396|
+
+**年付**
+
+Try something new 50G/月 ¥ 42
+
+**一次性**
+
+Show off your skills 650G ¥ 88
